@@ -16,4 +16,4 @@ This Azure Function will be triggered when there is a new event in IoTHub. Then,
 | Environment Variable | Example Value |
 | ------------- | ------------- |
 | IOTHUB_CONNECTION_STRING  | Endpoint=sb://somethingnamespace.servicebus.windows.net/;SharedAccessKeyName=iothubowner;SharedAccessKey=cmysharedaccGu72NY=;EntityPath=iothub-ehub-techin510-111111-111111  |
-| DATABASE_URL  | postgresql://<postgres-username>:<somepassword>@aws-0-us-west-1.pooler.supabase.com:5432/postgres  |
+| DATABASE_URL  | postgresql://postgres-username:somepassword@aws-0-us-west-1.pooler.supabase.com:5432/postgres  |
