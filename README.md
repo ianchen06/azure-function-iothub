@@ -1,6 +1,6 @@
 # Azure IoT to PostgreSQL
 
-This Azure Function will be triggered when there is a new event in IoTHub. Then, it will write the data into PostgreSQL via the psycopg2 library.
+This Azure Function will be triggered when there is a new event in IoTHub. Then, it will write the data into PostgreSQL via the `psycopg2` library.
 
 ## Getting Started
 
